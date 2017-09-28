@@ -1,1 +1,2 @@
 you will not see any code in this repo. only stupid rakovanie
+1) because we don't code, we are trying to learn how to git
